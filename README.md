@@ -9,7 +9,7 @@ an example on how to calculate BMI
   * Beyond 30 signifies obesity
 ***********************************************************************************************************
 
-/***
+
  * A simple Node JS Server To Calculate BMI 
  * Take height and weight as operand
  * Example:
@@ -23,4 +23,4 @@ an example on how to calculate BMI
  * To install nodemon
  * npm install -g nodemon
  * nodemon [your node app]
- * */
+
